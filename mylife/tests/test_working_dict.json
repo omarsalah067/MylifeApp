@@ -1,0 +1,4 @@
+{
+    "database": "mylife\\tests\\test_empty_dict.json",
+    "habit": {}
+}

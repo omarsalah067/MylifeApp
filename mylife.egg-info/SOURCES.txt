@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+mylife/DB.py
+mylife/analytics.py
+mylife/habit.py
+mylife/mla.py
+mylife/schema.py
+mylife.egg-info/PKG-INFO
+mylife.egg-info/SOURCES.txt
+mylife.egg-info/dependency_links.txt
+mylife.egg-info/entry_points.txt
+mylife.egg-info/requires.txt
+mylife.egg-info/top_level.txt
+mylife/tests/test_DB.py
+mylife/tests/test_analytics.py
+mylife/tests/test_data.py
+mylife/tests/test_habit.py

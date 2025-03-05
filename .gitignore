@@ -1,0 +1,10 @@
+.venv
+mylife/__pycache__
+mylife/MylifeData.json
+mylife/mylife.egg-info
+create_dist.txt
+.pytest_cache
+mylife/tests/__pycache__
+mylife\MylifeData.json
+dist\mylife-1.0.tar.gz
+dist/mylife-1.0.tar.gz
