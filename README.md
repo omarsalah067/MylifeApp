@@ -22,7 +22,7 @@ It uses a JSON-based database for storing habits and supports streak calculation
    - Or, get the repository by termial:
         
             
-            git clone https://github.com/yourusername/mylife.git
+            git clone https://github.com/omarsalah067/MylifeApp.git
       - Use your prefered extraction application to unzip the project.
 
 2. Ensure you are using Python 3.9+:
@@ -37,7 +37,7 @@ Dev mode allows for source code inspection and testing.
 To enter developer mode:
 1.  Download the entire source code of the app and install the package using editable mode:
     
-        git clone https://github.com/omarsalah/mylife.git
+        git clone https://github.com/omarsalah067/MylifeApp.git
 2. Open the project in your prefered IDE then run in the (virtual) terminal:
 
         pip install -e .
