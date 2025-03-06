@@ -180,7 +180,7 @@ def delete(habit_name):
     
 @main.command(hidden=True)
 @click.confirmation_option(prompt="Are you sure you want to inject the seed database?")
-@click.option("--file", default="seed_data.json", help="Path to seed data file")
+@click.option("--file", default="mylife\\seed_dict.json", help="Path to seed data file")
 def seed_db(file):
     """Injects the seed database (hidden command)."""
     if database.inject_seed_data(file):
